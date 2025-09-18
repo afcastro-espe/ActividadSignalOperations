@@ -2,7 +2,7 @@
 
 Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=afcastro-espe/MATLAB-Educator-Workshop)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=afcastro-espe/ActividadSignalOperations)
 
 [![View MATLAB-Educator-Workshop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/181943-matlab-educator-workshop)
 
